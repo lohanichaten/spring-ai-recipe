@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Implementation-Title: modular-rag-example
+Implementation-Version: 3.5.4
+Created-By: Maven Integration for Eclipse
+

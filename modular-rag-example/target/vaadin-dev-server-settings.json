@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/pl231f/Documents/workspace/workspace_springai/spring-ai-recipe/modular-rag-example/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/pl231f/Documents/workspace/workspace_springai/spring-ai-recipe/modular-rag-example/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/pl231f/Documents/workspace/workspace_springai/spring-ai-recipe/modular-rag-example/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\pl231f\\Documents\\workspace\\workspace_springai\\spring-ai-recipe\\modular-rag-example\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\pl231f\\Documents\\workspace\\workspace_springai\\spring-ai-recipe\\modular-rag-example\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/pl231f/Documents/workspace/workspace_springai/spring-ai-recipe/modular-rag-example/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/pl231f/Documents/workspace/workspace_springai/spring-ai-recipe/modular-rag-example/target/dev-bundle/config",
+  "i18nOutput": "target/classes/vaadin-i18n",
+  "jarResourcesFolder": "C:/Users/pl231f/Documents/workspace/workspace_springai/spring-ai-recipe/modular-rag-example/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\pl231f\\Documents\\workspace\\workspace_springai\\spring-ai-recipe\\modular-rag-example\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
