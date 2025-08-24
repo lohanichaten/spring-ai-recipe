@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>modular-rag-example</module>
+  	<module>music-application-app</module>
   </modules>
 </project>
