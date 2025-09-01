@@ -7,5 +7,6 @@
   <modules>
   	<module>modular-rag-example</module>
   	<module>music-application-app</module>
+  	<module>spring-ai-agentic-patterns</module>
   </modules>
 </project>
